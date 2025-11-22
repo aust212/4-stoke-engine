@@ -12,7 +12,7 @@ This project demonstrates:
 
 ## Tools Used
 - AutoCAD: Technical drawing, dimensioning, and modeling
-- Blender — Materials and rendering
+- Blender: Materials and rendering
 
 ## Purpose
 This project highlights my ability to design and visualize mechanical assemblies, bridging engineering precision with 3D artistry.
