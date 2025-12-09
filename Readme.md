@@ -14,5 +14,8 @@ This project demonstrates:
 - AutoCAD: Technical drawing, dimensioning, and modeling
 - Blender: Materials and rendering
 
+## Preview
+![Preview](preview.png)
+
 ## Purpose
 This project highlights my ability to design and visualize mechanical assemblies, bridging engineering precision with 3D artistry.
